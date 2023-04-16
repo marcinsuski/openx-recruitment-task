@@ -3,12 +3,7 @@ This is a solution to openx recruitment task 2.
 
 ## 📦 Tech stack:
 - React.js / Vite
-- JEst/ RTL - testing tool
-
-
-
-## 💻 Demo
-Click the link and check the app: [Link](https://ms-finance-dashboard.vercel.app/)
+- Jest/ RTL - testing tool
 
 
 ## 💾 Installation
